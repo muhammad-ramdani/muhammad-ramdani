@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **Muhammad Ramdani**.\
+Perkenalkan nama saya **Muhammad Ramdani**
 
 ### Github Statistic
 <p align="left">
